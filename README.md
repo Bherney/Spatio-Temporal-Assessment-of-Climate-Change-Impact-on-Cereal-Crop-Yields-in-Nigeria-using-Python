@@ -54,7 +54,7 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 
 - If you use this code or analysis, please cite as:
 
-- [Waheeb T.B] (2025). Spatio-Temporal Assessment of Climate Change Impact on Cereal Crop Yields in Nigeria Using Python. GitHub Repository.
+- Waheeb T.B. (2025). Spatio-Temporal Assessment of Climate Change Impact on Cereal Crop Yields in Nigeria Using Python. GitHub Repository.
 
 ## Acknowledgement
 
