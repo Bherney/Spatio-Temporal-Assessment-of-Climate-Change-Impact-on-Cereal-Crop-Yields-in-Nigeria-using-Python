@@ -50,6 +50,16 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 - Boxplot of Yield Projections → [View Here](plots/)  
 - Spatial Distribution of Yield Gaps → [View Here](plots/)  
 
+## Citation
+
+- If you use this code or analysis, please cite as:
+
+- [Waheeb T.B] (2025). Spatio-Temporal Assessment of Climate Change Impact on Cereal Crop Yields in Nigeria Using Python. GitHub Repository.
+
+## Acknowledgement
+
+- CGIAR Adaptation Atlas for open-access crop-climate projections.
+
 ---
 
 ## How to Use
