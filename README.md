@@ -47,9 +47,9 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 ---
 
 ## Output Visualizations
-- Boxplot of Yield Projections → [View Here](plotfile/boxplot)
-- Bar Chart of Most Vulnerable State → [View Here](plotfile/barchart)   
-- Spatial Distribution of Yield Gaps → [View Here](plotfile/distribution)
+- Boxplot of Yield Projections → [View Here](plotfile/Boxplot.png)
+- Bar Chart of Most Vulnerable State → [View Here](plotfile/Barchart.png)   
+- Spatial Distribution of Yield Gaps → [View Here](plotfile/Distribution.png)
 
 ## Citation
 
