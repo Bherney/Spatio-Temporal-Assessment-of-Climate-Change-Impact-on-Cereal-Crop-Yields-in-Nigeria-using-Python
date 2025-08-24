@@ -18,9 +18,9 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 ---
 
 ## 📂 Repository Structure
-- [**plots/**](plots/) → All generated plots (boxplots, maps, bar charts)  
-- [**script/**](script/) → Jupyter Notebook / Python scripts for analysis  
-- [**data/**](data/) → CSV and shapefiles (not included in repo if large)  
+- [**plots/**](/plotfile/) → All generated plots (boxplots, maps, bar chart)  
+- [**script/**](script/) → Python scripts for analysis  
+- [**data/**](datafile/) → CSV and shapefiles  
 - [**README.md**](README.md) → Project documentation  
 
 ---
@@ -47,8 +47,8 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 ---
 
 ## Output Visualizations
-- Boxplot of Yield Projections → [View Here](plots/)  
-- Spatial Distribution of Yield Gaps → [View Here](plots/)  
+- Boxplot of Yield Projections → [View Here](plotfile/)  
+- Spatial Distribution of Yield Gaps → [View Here](plotfile/)  
 
 ## Citation
 
