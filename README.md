@@ -31,7 +31,7 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 2. **Scenario Analysis**: Compared SSP3-7.0 vs SSP5-8.5 for two periods (2021–2040, 2041–2060).  
 3. **Python Workflow**:
    - Data cleaning & structuring with **Pandas**  
-   - Statistical summaries & boxplots with **Seaborn/Matplotlib**  
+   - Statistical summaries, barchart & boxplot with **Seaborn/Matplotlib**  
    - Yield gap analysis with **NumPy**  
    - Spatial visualization using **GeoPandas** & choropleth maps  
 
@@ -47,8 +47,9 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 ---
 
 ## Output Visualizations
-- Boxplot of Yield Projections → [View Here](plotfile/)  
-- Spatial Distribution of Yield Gaps → [View Here](plotfile/)  
+- Boxplot of Yield Projections → [View Here](plotfile/boxplot)
+- Bar Chart of Most Vulnerable State → [View Here](plotfile/barchart)   
+- Spatial Distribution of Yield Gaps → [View Here](plotfile/distribution)
 
 ## Citation
 
