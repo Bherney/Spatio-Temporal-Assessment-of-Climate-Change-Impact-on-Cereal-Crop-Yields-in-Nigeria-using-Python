@@ -67,4 +67,4 @@ The study evaluates yield projections for two future periods (**2021–2040** an
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/Spatio-Temporal-Assessment-of-Climate-Change-Impact-on-Cereal-Crop-Yields-in-Nigeria-using-Python.git
+   git clone https://github.com/bherney/Spatio-Temporal-Assessment-of-Climate-Change-Impact-on-Cereal-Crop-Yields-in-Nigeria-using-Python.git
